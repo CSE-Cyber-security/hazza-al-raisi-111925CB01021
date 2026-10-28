@@ -1,0 +1,26 @@
+Simple Calculator - Test Data
+
+Test 1:
+Choice: 1
+Numbers: 10 5
+Expected Result: 15.00
+
+Test 2:
+Choice: 2
+Numbers: 10 5
+Expected Result: 5.00
+
+Test 3:
+Choice: 3
+Numbers: 10 5
+Expected Result: 50.00
+
+Test 4:
+Choice: 4
+Numbers: 10 5
+Expected Result: 2.00
+
+Test 5:
+Choice: 4
+Numbers: 10 0
+Expected Result: Error: Division by zero!
